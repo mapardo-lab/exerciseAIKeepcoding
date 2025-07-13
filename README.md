@@ -1,4 +1,4 @@
-# exerciseIAKeepcoding
+# exerciseAIKeepcoding
 
 Exercise for Bootcamp BigData, Artificial Intelligence and Machine Learning
 
